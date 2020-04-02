@@ -1,1 +1,1 @@
-print ("this is an example program" )
+this is an example program

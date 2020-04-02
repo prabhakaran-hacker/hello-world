@@ -1,6 +1,6 @@
 
 def main():
- #silmply printing
+ #silmply printing 1
  print("haii")
 main()
   
